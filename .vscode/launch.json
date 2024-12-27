@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C#: RazorPagesPlayground [https]",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/RazorPagesPlayground.csproj",
+            "launchConfigurationId": "TargetFramework=;https"
+        }
+    ]
+}
